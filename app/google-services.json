@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550231688329",
+    "project_id": "healthy-bite-3261b",
+    "storage_bucket": "healthy-bite-3261b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550231688329:android:e842743c7db0e7136af258",
+        "android_client_info": {
+          "package_name": "com.example.healthybite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550231688329-j5ap6aa553okbkmfv80d0kjbsc85vmnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uVzv7HZDd5uNL7N8tIIYGhW6EBqv-7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550231688329-j5ap6aa553okbkmfv80d0kjbsc85vmnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
